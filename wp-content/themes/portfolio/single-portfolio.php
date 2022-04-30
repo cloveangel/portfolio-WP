@@ -14,9 +14,6 @@
         </p>
     </div>
     <?php the_content(); ?>
-    <!-- <div class="image_right clearfloat">
-        <img src="<?php the_post_thumbnail_url(); ?>" alt="thumbnail for project">
-    </div> -->
 
 </div>
 
@@ -25,8 +22,3 @@
   get_footer();
 
 ?>
-
-
-
-
-
